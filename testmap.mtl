@@ -1,0 +1,15 @@
+newmtl irregular_stone_wall
+map_Kd textures/irregular_stone_wall.jpg
+
+newmtl mountainside_rock
+map_Kd textures/mountainside_rock.jpg
+
+newmtl tech_ground
+map_Kd textures/tech_ground.png
+
+newmtl tech_wall
+map_Kd textures/tech_wall.png
+
+newmtl tech_wall_1
+map_Kd textures/tech_wall_1.jpg
+
