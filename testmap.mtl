@@ -1,15 +1,21 @@
+newmtl __TB_empty
+map_Kd textures/__TB_empty.png
+
+newmtl hextech_ground
+map_Kd textures/hextech_ground.jpg
+
 newmtl irregular_stone_wall
 map_Kd textures/irregular_stone_wall.jpg
 
-newmtl mountainside_rock
-map_Kd textures/mountainside_rock.jpg
-
-newmtl tech_ground
-map_Kd textures/tech_ground.png
+newmtl rock_strata
+map_Kd textures/rock_strata.jpg
 
 newmtl tech_wall
 map_Kd textures/tech_wall.png
 
 newmtl tech_wall_1
 map_Kd textures/tech_wall_1.jpg
+
+newmtl toxicsky
+map_Kd textures/toxicsky.jpg
 
